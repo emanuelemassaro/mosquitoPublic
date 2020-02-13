@@ -81,9 +81,12 @@ Then you we compile and run (`-np 1` are the number of processors used)
         
 ## 3 Results
 
-In this figure we report the spatio-temporal distribution of the disease outbreak in a schematic city.
+Here th number of infected individuals over the time.
 
-The city is composed by 20x20 cells where 100 individuals live in each cell. The 20% of individuals live and work in their cell while the 80% work in a cell that have a distance following a Levy-Flight distribution.
+![GitHub Logo](infected.png)
+
+
+In the nexy figure we report the spatio-temporal distribution of the disease outbreak in a schematic city.
 
 As intial condition, 5 exposed humans are placed in the central cell. We showed the number of recovered individuals in each cell over the time.
 
