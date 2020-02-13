@@ -84,12 +84,12 @@ Then you we compile and run (`-np 1` are the number of processors used)
         
 ## 3 Results
 
-Here th number of infected individuals over the time.
+Here the number of infected individuals over the time.
 
 ![GitHub Logo](infected.png)
 
 
-In the nexy figure we report the spatio-temporal distribution of the disease outbreak in a schematic city.
+In the next figure we report the spatio-temporal distribution of the disease outbreak in a schematic city.
 
 As intial condition, 5 exposed humans are placed in the central cell. We showed the number of recovered individuals in each cell over the time.
 
