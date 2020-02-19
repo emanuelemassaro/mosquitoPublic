@@ -101,4 +101,6 @@ In this section we show the changes of the outbreks by varying the fraction of c
 ![GitHub Logo](recovered.png)
 
 
+On the other side, if we look at the epidemic extinction time, we observe a nonlinear correlation between the traveling rate and the epidemic extiction time that has a peak at 0.3.
 
+![GitHub Logo](extinctionTime.png)
