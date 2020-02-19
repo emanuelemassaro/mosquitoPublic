@@ -98,7 +98,7 @@ As intial condition, 5 exposed humans are placed in the central cell. We showed 
 In this section we show the changes of the outbreks by varying the fraction of commuters in each cell. In the previous section we showed the results by considring that the 20% of agents live and work in the same cell while the 80% of agent commute everyday between their home and work location. In the next figure we show the number of recovered individuals for different values of commuters.
 
 
-
+![GitHub Logo](recovered.png)
 
 
 
